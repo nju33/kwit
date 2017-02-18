@@ -5,6 +5,7 @@
   "main": "./dist/main.js",
   "dependencies": {
     "lodash.debounce": "^4.0.8",
+    "lowdb": "^0.15.5",
     "twitter": "^1.7.0",
     "vue": "^2.1.10",
     "vue-electron": "^1.0.6",
